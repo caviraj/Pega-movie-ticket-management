@@ -1,1 +1,0 @@
-# Pega-movie-ticket-management
